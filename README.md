@@ -1,5 +1,9 @@
 # Nimbus for Raycast
 
+> **Retired and archived (2026-11-12).** This repository held a vision and a build prompt, and
+> nothing was ever built here. A quick-ask launcher is not planned. The reason, and the condition that would reopen it, are in the Nimbus roadmap's [Rejected Directions](https://github.com/nimbus-agent/Nimbus/blob/main/docs/roadmap.md#rejected-directions).
+> The text below is kept as it was written.
+
 A [Raycast](https://raycast.com) extension — quick-ask [**Nimbus**](https://github.com/nimbus-agent/Nimbus) from anywhere on macOS.
 
 > **Status: SCAFFOLD — not yet built.** This repo holds its vision and a [build prompt](./NEW-SESSION-PROMPT.md).
